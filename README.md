@@ -1,9 +1,7 @@
 # Amazon-Sales-Dashboard
 This project aims to create an interactive dashboard using Power BI to analyze and visualize sales data from Amazon. The dashboard provides insights into sales performance, customer behavior, and product trends to help stakeholders make informed business decisions.
+
 Project Overview:
-
-The Amazon Sales Dashboard project involves the following steps:
-
 
 Data Collection: Collecting sales data from Amazon.
 
@@ -14,6 +12,8 @@ Data Modeling: Creating a data model in Power BI to structure the data for analy
 Dashboard Design: Designing and developing an interactive dashboard to visualize key metrics and insights.
 
 Deployment: Publishing the dashboard to the Power BI service for accessibility and sharing.
+
+
 
 Technologies Used:
 
